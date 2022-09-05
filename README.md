@@ -1,7 +1,5 @@
 ### Hi there 👋
-<html>
-  <body>Hello World</body>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujalk1310)]
-</html>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujalk1310)
 
 
 <!--
