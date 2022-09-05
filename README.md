@@ -1,8 +1,5 @@
 ### Hi there 👋
-
----
-
-### :fire: My Stats :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Sujalk1310/Sujalk1310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
