@@ -7,5 +7,9 @@
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /></div>
 <br/>
 <div align="center"><img src="https://github-stats-alpha.vercel.app/api?username=sujalk1310&cc=000&tc=fff&ic=fff&bc=000" /></div>
+<br/>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalk1310&layout=compact" /></div>
+<br/>
+
 
 
