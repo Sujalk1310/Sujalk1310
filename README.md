@@ -8,6 +8,6 @@
 <br/>
 <div align="center"><img src="https://github-stats-alpha.vercel.app/api?username=sujalk1310&cc=000&tc=fff&ic=fff&bc=000" /></div>
 <br/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalk1310&layout=compact" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujalk1310&layout=compact&bg_color=black" /></div>
 <br/>
 
