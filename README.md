@@ -5,9 +5,6 @@
 <div align="center"><img height="220px" src="https://github.com/Sujalk1310/Sujalk1310/blob/main/Images/Greeting.gif" alt="Greetings" /></div>
 <div align="center"><h1>!! Welcome to my Github Page !!</h1></div>
 <br/><br/>
-https://github-stats-alpha.vercel.app/api?username=sujalk1310&cc=000&tc=fff&ic=fff&bc=000
-Where cc = Card Color
-      tc = Text Color
-      ic = Icon Color
-      bc = Border Color
+<div align="center"><img src="https://github-stats-alpha.vercel.app/api?username=sujalk1310&cc=000&tc=fff&ic=fff&bc=000" /></div>
+
 
